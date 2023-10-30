@@ -1,0 +1,20 @@
+.name{
+    border: 2px solid rgb(2, 1, 1);
+    width: 250px;
+    margin: 20px;
+    margin-top: 10px;
+    border-radius:8px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 10px;
+}
+.text{
+    width: 250px;
+    height: 200px;
+    margin: 10px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.fieldset{
+    border: 40px;
+}
